@@ -272,11 +272,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668776216,
-        "narHash": "sha256-HLPPpSk4cf5i7ZiG+FHiqL6pZcTBjO5kByvMaUTRdK0=",
+        "lastModified": 1669431459,
+        "narHash": "sha256-a9piq+U0ZOVAorZNx8q6Jv4OPU8ec9LMzYhmqV/zr1E=",
         "owner": "nim-nix-pkgs",
         "repo": "wayland",
-        "rev": "1347ab2cf795ace006e55da2e0d93f8373156fb1",
+        "rev": "cfb387e165611c97bc49e9817d3c82258224a30d",
         "type": "github"
       },
       "original": {
@@ -299,11 +299,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668776232,
-        "narHash": "sha256-uh7Jvyi3H6mi9Wgd1AV17cDVZQn28DtcLJeUgBs9AUM=",
+        "lastModified": 1669431474,
+        "narHash": "sha256-I2b/jD5/eZ5cNdqmIHq5qmfJMovQQFFBY7b3Hg7+vOA=",
         "owner": "nim-nix-pkgs",
         "repo": "xkb",
-        "rev": "1b17c03eb1a8e7810f3ce539bff02e4fe8205440",
+        "rev": "91dee9508e819c039a7c6985851c19343d6cb9d6",
         "type": "github"
       },
       "original": {
